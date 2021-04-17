@@ -1,6 +1,8 @@
 #ifndef RECORD_H
 #define RECORD_H
 
+#define FIELD_SIZE 32
+
 /* Internal date format: YYYYMMDD */
 struct date {
 	char year[4];
@@ -8,6 +10,7 @@ struct date {
 	char day[2];
 };
 
+struct date to_date(char *date);
 int valid_date(struct date *date);
 static inline int null_date(struct date *date) {return !((char*) date)[0];}
 int datecmp(struct date *date1, struct date *date2);
@@ -20,6 +23,7 @@ struct record {
 	char *last_name;
 	char *disease_id;          /* Points to the same place the buckets do */
 	char *country;
+	int age;
 	struct date entry_date;
 	struct date exit_date;
 };

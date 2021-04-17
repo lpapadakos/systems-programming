@@ -4,7 +4,11 @@
 #include "record.h"
 
 /* Declarations */
-struct tree_node;
+struct tree_node {
+	struct record *patient_record;
+	struct tree_node *left;
+	struct tree_node *right;
+};
 
 /* Interface */
 struct tree_node *tree_insert(struct tree_node *root, struct record *record);

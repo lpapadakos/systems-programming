@@ -10,26 +10,26 @@ struct hash_table {
 	void *bucket[];
 };
 
-/* For topk-X */
-struct case_entry {
-	struct case_entry *next;
+struct bucket_entry {
 	char *name;
-	int count;
+	struct tree_node* tree;
 };
 
 /* Interface */
 int string_hash(struct hash_table *ht, char *_str);
+
 int ht_init(int disease_entries, int country_entries, int bucket_size);
-
-/* All commands depend on the hash_tables (disease, countries) */
-int global_disease_stats(struct date *date1, struct date *date2);
-int disease_frequency(char *disease_id, struct date *date1, struct date *date2, char *country);
-int topk_diseases(int k, char *country, struct date *date1, struct date *date2);
-int topk_countries(int k, char *disease_id, struct date *date1, struct date *date2);
-int insert_record(struct record *tmp);
-int record_patient_exit(char *record_id,  struct date *exit_date);
-int num_current_patients(char *disease_id);
-
 void ht_destroy();
+
+/* Worker commands implementation */
+int insert_record(struct record *tmp);
+int file_statistics(char *country, char *file, int response_fd);
+int list_countries(int response_fd);
+int topk_age_ranges(int k, char *country, char *disease, struct date *date1, struct date *date2, int response_fd);
+int num_patient_admissions(char *disease, struct date *date1, struct date *date2, char *country, int response_fd);
+int num_patient_discharges(char *disease, struct date *date1, struct date *date2, char *country, int response_fd);
+
+struct bucket_entry *get_next_country(int reset);
+int have_date_records(struct tree_node *country, char *file);
 
 #endif /* HASHTABLE_H */

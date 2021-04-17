@@ -4,7 +4,6 @@
 #include <stdlib.h>
 #include <string.h>
 
-#include "common.h"
 #include "tree.h"
 
 /* Small stack implementation */
@@ -18,7 +17,7 @@ void stack_push(struct stack_node **top, struct tree_node *node)
 	struct stack_node *temp = malloc(sizeof(*temp));
 
 	if (!temp) {
-		fputs("stack_node: malloc failed.\n", stderr);
+		perror("stack_node malloc()");
 		return;
 	}
 
@@ -55,18 +54,16 @@ void stack_destroy(struct stack_node **top)
 
 /* Tree Definition
  * The key is the patient_record->entryDate */
-struct tree_node {
-	int height;
+/* struct tree_node {
 	struct record *patient_record;
 	struct tree_node *left;
 	struct tree_node *right;
-};
+}; */
 
 struct tree_node *make_node(struct record *record)
 {
 	struct tree_node *node = malloc(sizeof(*node));
 
-	node->height = 1;
 	node->patient_record = record;
 	node->left = NULL;
 	node->right = NULL;
@@ -84,53 +81,6 @@ int max(int a, int b)
 	return ((a > b) ? a : b);
 }
 
-int height(struct tree_node *node)
-{
-	if (!node)
-		return 0;
-
-	return node->height;
-}
-
-void update_height(struct tree_node *node)
-{
-	node->height = max(height(node->left), height(node->right)) + 1;
-}
-
-int balance(struct tree_node *node)
-{
-	if (!node)
-		return 0;
-
-	return height(node->left) - height(node->right);
-}
-
-struct tree_node *rotate_right(struct tree_node *root)
-{
-	struct tree_node *node = root->left;
-
-	root->left = node->right;
-	node->right = root;
-
-	update_height(node);
-	update_height(root);
-
-	return node;
-}
-
-struct tree_node *rotate_left(struct tree_node *root)
-{
-	struct tree_node *node = root->right;
-
-	root->right = node->left;
-	node->left = root;
-
-	update_height(node);
-	update_height(root);
-
-	return node;
-}
-
 /* Tree Interface */
 
 struct tree_node *tree_insert(struct tree_node *root, struct record *record)
@@ -142,26 +92,6 @@ struct tree_node *tree_insert(struct tree_node *root, struct record *record)
 		root->left = tree_insert(root->left, record);
 	else
 		root->right = tree_insert(root->right, record);
-
-	if (balance(root) > 1) {
-		if (less(record, root->left->patient_record)) {  /* Left Left */
-			return rotate_right(root);
-		} else {                                        /* Left Right */
-			root->left = rotate_left(root->left);
-			return rotate_right(root);
-		}
-	}
-
-	if (balance(root) < -1) {
-		if (less(record, root->right->patient_record)) {/* Right Left */
-			root->right = rotate_right(root->right);
-			return rotate_left(root);
-		} else {                                       /* Right Right */
-			return rotate_left(root);
-		}
-	}
-
-	update_height(root);
 
 	return root;
 }
@@ -175,7 +105,7 @@ struct tree_node *tree_find_gte_node(struct tree_node *root, struct date *entry_
 	if (datecmp(entry_date, &root->patient_record->entry_date) <= 0) {
 		if (!root->left)
 			return root;
-		else if ( datecmp(entry_date, &root->left->patient_record->entry_date) < 0)
+		else if (datecmp(entry_date, &root->left->patient_record->entry_date) < 0)
 			return root;
 	}
 
@@ -228,21 +158,3 @@ void tree_destroy(struct tree_node *root)
 
 	free(root);
 }
-
-// Useful for debugging!
-/* void tree_print(struct tree_node *node, int space)
-{
-	if (!node)
-		return;
-
-	space += 20;
-
-	tree_print(node->right, space);
-
-	putchar('\n');
-	for (int i = 20; i < space; i++)
-		putchar(' ');
-	printf("%.8s\n", (char*) &node->patient_record->entry_date);
-
-	tree_print(node->left, space);
-} */

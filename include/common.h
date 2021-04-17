@@ -1,12 +1,17 @@
 #ifndef COMMON_H
 #define COMMON_H
 
-#define DM_OK 0
-#define DM_INVALID_RECORD -1
-#define DM_INVALID_PARAMETER -2
-#define DM_INVALID_COUNTRY -3
-#define DM_INVALID_DISEASE -4
-#define DM_INVALID_DATE -5
-#define DM_FILE_ERROR -6
+#define DA_OK 0
+#define DA_ALLOCATION_ERROR -1
+#define DA_FILE_ERROR -2
+#define DA_INVALID_CMD -3
+#define DA_INVALID_COUNTRY -4
+#define DA_INVALID_DATE -5
+#define DA_INVALID_DISEASE -6
+#define DA_INVALID_PARAMETER -7
+#define DA_INVALID_RECORD -8
+#define DA_PIPE_ERROR -9
+
+enum mode {ENTER, EXIT};
 
 #endif /* COMMON_H */

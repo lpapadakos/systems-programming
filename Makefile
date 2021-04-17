@@ -1,11 +1,11 @@
-CFLAGS = -Wall -Wno-missing-braces -pedantic
+CFLAGS = -Wall -pedantic
 
 SRC = $(wildcard src/*.c)
 HDR = $(wildcard include/*.h)
-TARGET = diseaseMonitor
+TARGET = diseaseAggregator
 
 $(TARGET): $(SRC) $(HDR)
-	$(CC) $(CFLAGS) -I ./include/ $(SRC) -o $(TARGET) -g
+	$(CC) $(CFLAGS) -I ./include/ $(SRC) -o $(TARGET) -g3
 
 clean:
 	$(RM) $(TARGET)

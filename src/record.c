@@ -9,6 +9,14 @@
 
 static struct hash_table *records_ht;
 
+struct date to_date(char *date)
+{
+	struct date ret;
+	sscanf(date, "%2c-%2c-%4c", ret.day, ret.month, ret.year);
+
+	return ret;
+}
+
 int valid_date(struct date *date)
 {
 	struct date max = {{0}, {'1','2'}, {'3','1'}};
@@ -89,31 +97,45 @@ struct record *record_get(char *record_id)
 
 struct record *record_add(struct record *tmp)
 {
-	struct record *patient_record;
+	struct record *old_record, *new_record;
 	int hash = string_hash(records_ht, tmp->record_id);
 
 	/* Check if this id exists already */
-	if (record_get(tmp->record_id)) {
-		fprintf(stderr, "The record with id %s already exists!\n",
-			tmp->record_id);
+	old_record = record_get(tmp->record_id);
 
+	if (old_record) {
+		/* Existing record AND new one have ENTER set: BAD */
+		if (!null_date(&tmp->entry_date))
+			return NULL;
+
+		/* EXIT record has come to update ENTER record: OK */
+		if (!valid_interval(&old_record->entry_date, &tmp->exit_date))
+			return NULL;
+
+		old_record->exit_date = tmp->exit_date;
+
+		return tmp;                      /* Did not add, just updated */
+	} else if (null_date(&tmp->entry_date)) {
+		/* New record has EXIT set but, no existing ENTER record: BAD */
 		return NULL;
 	}
 
+	/* New ENTER record has come */
+
 	/* Allocate dedicated space for the new record */
-	patient_record = malloc(sizeof(*patient_record));
-	*patient_record = *tmp;
+	new_record = malloc(sizeof(*new_record));
+	*new_record = *tmp;
 
 	/* Update the record fields for permanent storage */
-	patient_record->record_id = strdup(tmp->record_id);
-	patient_record->first_name = strdup(tmp->first_name);
-	patient_record->last_name = strdup(tmp->last_name);
+	new_record->record_id = strdup(tmp->record_id);
+	new_record->first_name = strdup(tmp->first_name);
+	new_record->last_name = strdup(tmp->last_name);
 
 	/* Insert at beginning of list */
-	patient_record->next = records_ht->bucket[hash];
-	records_ht->bucket[hash] = patient_record;
+	new_record->next = records_ht->bucket[hash];
+	records_ht->bucket[hash] = new_record;
 
-	return patient_record;
+	return new_record;
 }
 
 void records_destroy()

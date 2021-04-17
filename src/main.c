@@ -1,154 +1,87 @@
-#include <getopt.h>
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
+#include <sys/stat.h>
+#include <unistd.h>
+#include <dirent.h>
 
-#include "commands.h"
+#include "aggregator.h"
 #include "common.h"
 
-//static const char _prompt[] = "\x1b[1;31m$\x1b[0m ";
-static const char _whitespace[] = " \f\n\r\t\v";
-
 int print_usage(const char *program);
-int file_phase(char *filename);
-int cmd_phase(void);
 
 int main(int argc, char *argv[])
 {
-	/* Program parameters */
-	struct option long_options[3] = {
-		{"h1", required_argument, NULL, 'd'},
-		{"h2", required_argument, NULL, 'c'},
-		{0}
-	};
-	char *filename;
-	int ret, opt, disease_entries = 0, country_entries = 0, bucket_size = 0;
+	/* Parameters & relevant checking */
+	int workers = 0, buffer_size = 0;
+	char* input_dir = NULL;
+	char opt;
 
-	/* Argument Parsing */
-	if (argc < 9)
-		return print_usage(argv[0]);
+	struct stat s;
 
-	while ((opt = getopt_long_only(argc, argv, "p:b:", long_options, NULL)) != -1) {
+	DIR *dir;
+	struct dirent *entry;
+	int subdirs = 0;
+
+	while ((opt = getopt(argc, argv, "w:b:i:")) != -1) {
 		switch (opt) {
-		case 'p':
-			filename = strdup(optarg);
+		case 'w':
+			workers = atoi(optarg);
 			break;
-		case 'd':
-			disease_entries = atoi(optarg);
-			break;
-		case 'c':
-			country_entries = atoi(optarg);
-			break;
+
 		case 'b':
-			bucket_size = atoi(optarg);
+			buffer_size = atoi(optarg);
 			break;
+
+		case 'i':
+			input_dir = strdup(optarg);
+			break;
+
 		default:
 			return print_usage(argv[0]);
 		}
 	}
 
-	if (disease_entries <= 0 || country_entries <= 0 || bucket_size <= 0)
+	if (workers <= 0 || buffer_size <= 0 || !input_dir)
 		return print_usage(argv[0]);
 
-	ret = cmd_init(disease_entries, country_entries, bucket_size);
-	if (ret)
-		return cmd_exit(ret);
+	/* Check if input_dir is, in fact, a directory */
+	if (stat(input_dir, &s)) {
+		perror(input_dir);
+		return print_usage(argv[0]);
+	}
 
-	ret = file_phase(filename);               /* Import records from file */
-	free(filename);
-	if (ret)
-		return cmd_exit(ret);
+	if (!S_ISDIR(s.st_mode)) {
+		fprintf(stderr, "%s: Not a directory\n", input_dir);
+		return print_usage(argv[0]);
+	}
 
-	return cmd_phase();                             /* Command Line Phase */
+	/* Limit workers to amount of subdirs */
+	dir = opendir(input_dir);
+	if (!dir)
+		return DA_FILE_ERROR;
+
+	while ((entry = readdir(dir))) {
+		if (!strcmp(entry->d_name, ".") || !strcmp(entry->d_name, ".."))
+				continue;
+
+		if (entry->d_type == DT_DIR)
+			subdirs++;
+	}
+
+	closedir(dir);
+
+	/* No more workers than there are directories */
+	workers = (workers < subdirs ? workers : subdirs);
+
+	/* The magic begins... */
+	return aggregator(workers, buffer_size, input_dir);
 }
+
 
 int print_usage(const char *program)
 {
-	fprintf(stderr,
-	        "Usage: %s "
-	        "-p patientRecordsFile –h1 diseaseHashtableNumOfEntries "
-	        "–h2 countryHashtableNumOfEntries –b bucketSize\n",
+	fprintf(stderr, "%s –w numWorkers -b bufferSize -i input_dir\n",
 	        program);
-	return DM_INVALID_PARAMETER;
-}
-
-int file_phase(char *filename)
-{
-	FILE *records_file;
-	char buffer[1024];
-	int ret = 0;
-
-	records_file = fopen(filename, "r");
-	if (!records_file) {
-		perror(filename);
-		return DM_FILE_ERROR;
-	}
-
-	while (fgets(buffer, sizeof(buffer), records_file)) {
-		ret = cmd_insert_record(buffer);
-		if (ret) {
-			fclose(records_file);
-			return cmd_exit(ret);
-		}
-	}
-
-	fclose(records_file);
-
-	//puts("Records inserted.");
-	return ret;
-}
-
-int cmd_phase()
-{
-	char *cmd, *args;
-	char buffer[1024];
-	int ret;
-
-	//puts("Type your commands below:\n(Type /exit or Ctrl+D to quit)\n");
-
-	for (;;) {
-		//fputs(_prompt, stdout);
-		if (!fgets(buffer, sizeof(buffer), stdin))   /* Handle Ctrl+D */
-			break;
-
-		cmd = strtok(buffer, _whitespace);
-		if (!cmd)
-			continue;                              /* Empty input */
-
-		args = strtok(NULL, _whitespace);
-		if (args)
-			args[strlen(args)] = ' '; /* Replace strtok NULL byte */
-
-		ret = 0;
-
-		if (!strcmp(cmd, "/exit")) {                  /* Handle /exit */
-			break;
-		} else if (!strcmp(cmd, "/globalDiseaseStats")) {
-			ret = cmd_global_disease_stats(args);
-		} else if (!strcmp(cmd, "/diseaseFrequency")) {
-			ret = cmd_disease_frequency(args);
-		} else if (!strcmp(cmd, "/topk-Diseases")) {
-			ret = cmd_topk_diseases(args);
-		} else if (!strcmp(cmd, "/topk-Countries")) {
-			ret = cmd_topk_countries(args);
-		} else if (!strcmp(cmd, "/insertPatientRecord")) {
-			ret = cmd_insert_record(args);
-			if (!ret)
-				puts("Record added");
-		} else if (!strcmp(cmd, "/recordPatientExit")) {
-			ret = cmd_record_patient_exit(args);
-		} else if (!strcmp(cmd, "/numCurrentPatients")) {
-			ret = cmd_num_current_patients(args);
-		} else {
-			cmd_print_usage();
-		}
-
-		if (ret)
-			puts("error");
-
-		if (ret == DM_INVALID_PARAMETER)
-			cmd_print_usage();
-	}
-
-	return cmd_exit(DM_OK);
+	return DA_INVALID_PARAMETER;
 }
