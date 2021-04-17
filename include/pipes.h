@@ -1,6 +1,8 @@
 #ifndef PIPES_H
 #define PIPES_H
 
+#include <stddef.h>
+
 #define CMD_DIRECTORIES "/directories"
 #define CMD_LIST_COUNTRIES "/listCountries"
 #define CMD_DISEASE_FREQUENCY "/diseaseFrequency"
@@ -22,6 +24,8 @@ struct p_msg {
 	char *pos;
 	int consumed;
 };
+
+void msg_init(struct p_msg *msg);
 
 void pipes_init(int _buffer_size);
 

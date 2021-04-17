@@ -11,6 +11,10 @@
 #define DA_INVALID_PARAMETER -7
 #define DA_INVALID_RECORD -8
 #define DA_PIPE_ERROR -9
+#define DA_SOCK_ERROR -10
+
+#define MIN(a,b) (((a)<(b))?(a):(b))
+#define MAX(a,b) (((a)>(b))?(a):(b))
 
 enum mode {ENTER, EXIT};
 

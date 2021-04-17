@@ -1,0 +1,1000 @@
+/numPatientDischarges TAKAMOURI 04-04-2014 23-02-2017 Finland 
+/topk-AgeRanges 1 Finland COVID-2019 06-03-2014 04-07-2018 
+/numPatientAdmissions SARS-COV-2 05-11-2018 05-01-2019 Bahrain 
+/topk-AgeRanges 2 Greece MERS-COV 10-05-2008 26-11-2010 
+/numPatientAdmissions SARS-COV-2 19-12-2014 28-11-2016 Chile 
+/diseaseFrequency EVD 09-05-1990 04-02-2013 Bahrain 
+/topk-AgeRanges 3 Latvia TAKAMOURI 11-03-2008 01-05-2018 
+/searchPatientRecord 783 
+/searchPatientRecord 772 
+/diseaseFrequency EBOLA 17-07-2015 28-09-2019  
+/topk-AgeRanges 4 Greece TAKAMOURI 15-11-1992 14-09-2009 
+/numPatientAdmissions FLU-2018 08-03-2009 29-01-2011 Tanzania 
+/numPatientAdmissions H1N1 17-04-2016 27-04-2017 Tanzania 
+/topk-AgeRanges 1 Bahrain EBOLA 29-05-2002 20-03-2003 
+/diseaseFrequency SARS-1 10-06-2015 22-03-2019  
+/searchPatientRecord 936 
+/numPatientAdmissions COVID-2019 10-12-2016 13-12-2017  
+/topk-AgeRanges 2 Denmark SARS-COV-2 25-11-1999 22-04-2004 
+/searchPatientRecord 261 
+/diseaseFrequency FLU-2018 29-02-2000 11-06-2013 Bahrain 
+/searchPatientRecord 798 
+/searchPatientRecord 527 
+/numPatientDischarges EVD 22-05-1996 18-10-2003 Bahrain 
+/numPatientAdmissions WestVirginia 30-09-1998 18-05-2006 Greece 
+/searchPatientRecord 257 
+/numPatientAdmissions TAKAMOURI 27-03-1990 06-07-2014  
+/diseaseFrequency TAKAMOURI 24-03-1992 20-12-2019  
+/diseaseFrequency SARS-1 12-11-2013 20-03-2018  
+/searchPatientRecord 466 
+/diseaseFrequency SARS-COV-2 31-03-2016 02-09-2016 Bahrain 
+/numPatientAdmissions SARS-1 19-12-1992 05-10-2005  
+/searchPatientRecord 193 
+/topk-AgeRanges 2 Malawi FLU-2018 20-03-2012 20-08-2013 
+/numPatientAdmissions EVD 13-07-1991 11-01-2016  
+/numPatientAdmissions COVID-2019 04-09-2013 21-07-2015 Finland 
+/numPatientAdmissions H1N1 13-12-2016 22-06-2018 Latvia 
+/numPatientAdmissions TAKAMOURI 11-08-2002 01-12-2008  
+/numPatientAdmissions EBOLA 13-09-1997 29-07-2019 Bahrain 
+/topk-AgeRanges 4 Chad EVD 01-01-2015 24-12-2018 
+/topk-AgeRanges 1 Denmark FLU-2018 13-05-2001 17-07-2017 
+/numPatientDischarges WestVirginia 12-01-1999 05-02-2001  
+/searchPatientRecord 999 
+/numPatientAdmissions COVID-2019 02-12-1994 29-03-2007 Latvia 
+/numPatientDischarges COVID-2019 14-05-1997 19-02-2009  
+/diseaseFrequency MERS-COV 14-11-1996 21-03-2000  
+/numPatientAdmissions H1N1 16-06-2003 29-09-2013 Tanzania 
+/searchPatientRecord 334 
+/diseaseFrequency TAKAMOURI 17-04-2006 03-07-2008 Malawi 
+/numPatientDischarges COVID-2019 07-09-2012 13-02-2016  
+/diseaseFrequency SARS-COV-2 16-12-2010 18-07-2015  
+/numPatientAdmissions EVD 10-12-1997 06-04-2016  
+/searchPatientRecord 506 
+/searchPatientRecord 126 
+/searchPatientRecord 47 
+/numPatientAdmissions EBOLA 03-11-1998 05-04-2018  
+/numPatientAdmissions WestVirginia 09-12-2017 16-11-2018 Chile 
+/searchPatientRecord 243 
+/searchPatientRecord 995 
+/topk-AgeRanges 2 Bahrain WestVirginia 04-01-2003 10-07-2017 
+/diseaseFrequency TAKAMOURI 11-06-2007 06-06-2011  
+/diseaseFrequency COVID-2019 21-10-2002 17-07-2016  
+/topk-AgeRanges 4 Latvia TAKAMOURI 24-05-2018 27-09-2018 
+/searchPatientRecord 179 
+/topk-AgeRanges 1 Chile H1N1 19-04-1993 27-11-2017 
+/numPatientAdmissions SARS-1 25-01-1990 08-01-2002  
+/diseaseFrequency SARS-COV-2 15-07-2003 24-02-2016 Malawi 
+/topk-AgeRanges 4 Finland MERS-COV 07-10-1990 18-06-2001 
+/numPatientDischarges SARS-1 04-04-1992 09-07-1997 Greece 
+/topk-AgeRanges 1 Denmark TAKAMOURI 06-03-2008 16-12-2013 
+/topk-AgeRanges 4 Latvia FLU-2018 28-06-1999 16-08-2011 
+/numPatientAdmissions COVID-2019 26-10-2015 04-07-2018  
+/numPatientDischarges COVID-2019 15-12-1992 11-01-2019 Chile 
+/numPatientAdmissions FLU-2018 03-12-2000 21-07-2014 Finland 
+/numPatientDischarges WestVirginia 03-04-2000 03-12-2012 Iraq 
+/topk-AgeRanges 1 Bahrain EBOLA 27-01-2007 23-04-2007 
+/topk-AgeRanges 1 Denmark MERS-COV 24-09-2007 21-02-2008 
+/diseaseFrequency H1N1 10-06-2004 31-05-2016 Greece 
+/numPatientDischarges MERS-COV 26-02-1992 23-02-2011  
+/numPatientAdmissions EVD 03-06-2010 23-10-2010 Chad 
+/topk-AgeRanges 1 Chad EVD 28-01-2014 03-04-2015 
+/searchPatientRecord 620 
+/diseaseFrequency TAKAMOURI 08-08-1993 14-12-2003 Chad 
+/topk-AgeRanges 2 Latvia SARS-COV-2 10-11-1996 07-10-2007 
+/diseaseFrequency MERS-COV 02-04-2013 21-08-2015 Denmark 
+/searchPatientRecord 603 
+/topk-AgeRanges 3 Malawi TAKAMOURI 18-02-2004 10-10-2013 
+/numPatientDischarges TAKAMOURI 04-12-2015 14-05-2016 Chile 
+/searchPatientRecord 260 
+/numPatientAdmissions H1N1 17-12-1991 27-05-2004 Bahrain 
+/numPatientDischarges WestVirginia 29-05-2014 21-12-2015  
+/searchPatientRecord 27 
+/topk-AgeRanges 2 Denmark EBOLA 21-01-1999 12-07-2009 
+/numPatientDischarges H1N1 19-10-2005 20-02-2008 Chad 
+/searchPatientRecord 179 
+/topk-AgeRanges 2 Chad EVD 17-08-1999 28-01-2005 
+/numPatientAdmissions TAKAMOURI 22-03-2009 17-12-2019  
+/numPatientAdmissions COVID-2019 05-08-2006 01-05-2019 Finland 
+/searchPatientRecord 634 
+/topk-AgeRanges 2 Finland TAKAMOURI 05-01-2008 21-01-2011 
+/topk-AgeRanges 2 Chad COVID-2019 01-06-2017 23-09-2018 
+/searchPatientRecord 958 
+/numPatientAdmissions SARS-1 24-05-2012 15-05-2015  
+/searchPatientRecord 391 
+/topk-AgeRanges 4 Tanzania MERS-COV 24-03-2010 16-10-2012 
+/numPatientAdmissions TAKAMOURI 21-08-2011 29-08-2016  
+/topk-AgeRanges 4 Latvia FLU-2018 02-01-1990 07-01-2006 
+/topk-AgeRanges 4 Greece H1N1 08-07-1998 17-01-1999 
+/numPatientAdmissions SARS-COV-2 01-11-2014 19-10-2018  
+/topk-AgeRanges 2 Denmark EVD 06-03-2019 17-11-2019 
+/diseaseFrequency EVD 07-06-1997 17-05-2013 Latvia 
+/searchPatientRecord 771 
+/searchPatientRecord 687 
+/diseaseFrequency H1N1 27-03-1995 03-09-2011  
+/numPatientDischarges MERS-COV 25-09-1992 29-03-1997  
+/diseaseFrequency EBOLA 27-05-2007 01-03-2019 Latvia 
+/numPatientDischarges EVD 15-11-1992 24-02-1994  
+/numPatientAdmissions MERS-COV 31-12-2016 18-02-2019 Iraq 
+/numPatientAdmissions TAKAMOURI 07-10-1997 11-10-1997  
+/diseaseFrequency MERS-COV 06-02-1996 21-11-2015  
+/topk-AgeRanges 2 Iraq EVD 10-11-1993 13-11-1996 
+/searchPatientRecord 755 
+/topk-AgeRanges 2 Finland TAKAMOURI 11-05-2014 02-12-2015 
+/topk-AgeRanges 4 Greece MERS-COV 08-12-2009 03-08-2012 
+/diseaseFrequency WestVirginia 10-11-2010 14-09-2013  
+/diseaseFrequency COVID-2019 07-10-1997 28-03-1998 Latvia 
+/numPatientDischarges FLU-2018 27-07-2013 04-08-2019 Iraq 
+/topk-AgeRanges 3 Bahrain EVD 08-02-1992 01-05-2004 
+/numPatientDischarges EBOLA 14-03-2012 10-11-2014 Chile 
+/searchPatientRecord 206 
+/numPatientDischarges COVID-2019 10-12-2006 29-08-2007 Bahrain 
+/diseaseFrequency MERS-COV 10-09-1991 05-02-1996  
+/topk-AgeRanges 4 Tanzania FLU-2018 02-08-2001 27-07-2013 
+/diseaseFrequency COVID-2019 09-07-1996 17-12-2005  
+/numPatientDischarges EBOLA 15-09-2019 10-10-2019  
+/diseaseFrequency MERS-COV 10-10-2008 27-07-2012  
+/numPatientDischarges WestVirginia 25-06-2008 20-04-2009  
+/numPatientDischarges MERS-COV 09-09-1998 28-11-2016  
+/numPatientAdmissions FLU-2018 25-12-2016 02-12-2018 Chile 
+/diseaseFrequency MERS-COV 09-05-2011 16-09-2019  
+/searchPatientRecord 639 
+/topk-AgeRanges 4 Denmark MERS-COV 12-06-2007 09-02-2009 
+/numPatientDischarges MERS-COV 29-01-2006 03-10-2012  
+/topk-AgeRanges 3 Bahrain EBOLA 30-11-2003 20-04-2011 
+/numPatientAdmissions EVD 07-08-2005 29-09-2010  
+/numPatientAdmissions EVD 24-07-2017 10-10-2019 Chile 
+/numPatientAdmissions SARS-1 01-04-2017 19-08-2017 Bahrain 
+/topk-AgeRanges 2 Iraq COVID-2019 11-07-1997 20-03-2008 
+/numPatientDischarges EBOLA 19-06-2015 12-01-2016 Tanzania 
+/topk-AgeRanges 3 Malawi MERS-COV 14-08-2007 05-03-2014 
+/numPatientDischarges EBOLA 02-08-2006 09-10-2008  
+/numPatientDischarges COVID-2019 05-12-2001 27-09-2010  
+/numPatientAdmissions SARS-1 11-05-1992 21-08-2003 Greece 
+/numPatientAdmissions SARS-COV-2 26-08-1998 15-11-2015 Tanzania 
+/topk-AgeRanges 4 Tanzania COVID-2019 18-03-2016 01-11-2017 
+/diseaseFrequency MERS-COV 26-03-2019 25-09-2019 Chad 
+/searchPatientRecord 558 
+/diseaseFrequency EVD 31-01-2018 20-12-2019  
+/numPatientAdmissions WestVirginia 30-10-1994 28-08-2005 Bahrain 
+/topk-AgeRanges 2 Chile EVD 23-02-2001 15-11-2014 
+/numPatientDischarges SARS-COV-2 15-08-2019 24-11-2019  
+/numPatientDischarges SARS-COV-2 14-10-2008 18-06-2009 Tanzania 
+/numPatientAdmissions H1N1 11-07-2014 06-11-2017 Iraq 
+/diseaseFrequency SARS-1 26-04-1990 01-02-1996  
+/diseaseFrequency H1N1 02-06-1995 17-04-2005  
+/numPatientDischarges COVID-2019 05-07-1997 02-03-2013 Malawi 
+/diseaseFrequency COVID-2019 08-01-1990 20-07-1994 Greece 
+/numPatientAdmissions H1N1 22-10-2008 26-09-2019 Latvia 
+/topk-AgeRanges 4 Latvia COVID-2019 01-09-1994 13-04-2011 
+/topk-AgeRanges 4 Finland MERS-COV 24-10-2019 15-11-2019 
+/numPatientDischarges EBOLA 23-10-1996 27-06-2019 Chad 
+/numPatientDischarges MERS-COV 06-02-2015 08-12-2015  
+/diseaseFrequency FLU-2018 17-07-2012 21-12-2017 Chad 
+/searchPatientRecord 427 
+/numPatientDischarges MERS-COV 19-06-2013 06-10-2018  
+/searchPatientRecord 167 
+/numPatientAdmissions H1N1 25-01-2004 02-01-2018 Iraq 
+/searchPatientRecord 137 
+/searchPatientRecord 970 
+/diseaseFrequency TAKAMOURI 26-12-2017 03-03-2019  
+/topk-AgeRanges 4 Greece SARS-1 21-10-2013 18-03-2014 
+/topk-AgeRanges 1 Bahrain TAKAMOURI 15-01-2001 21-05-2011 
+/searchPatientRecord 451 
+/topk-AgeRanges 4 Greece TAKAMOURI 01-05-2016 11-09-2019 
+/searchPatientRecord 803 
+/numPatientAdmissions WestVirginia 27-05-2007 03-11-2009 Chile 
+/searchPatientRecord 181 
+/topk-AgeRanges 1 Malawi EBOLA 07-01-2019 12-06-2019 
+/searchPatientRecord 673 
+/searchPatientRecord 665 
+/searchPatientRecord 521 
+/numPatientAdmissions SARS-COV-2 08-04-2014 16-05-2018  
+/numPatientDischarges WestVirginia 24-07-2018 27-02-2019 Latvia 
+/numPatientAdmissions SARS-1 14-08-2003 17-11-2019 Iraq 
+/numPatientAdmissions SARS-1 03-06-1995 16-01-1997  
+/numPatientDischarges WestVirginia 31-01-2010 18-01-2013 Finland 
+/diseaseFrequency FLU-2018 25-02-2000 12-01-2007 Chile 
+/diseaseFrequency EBOLA 22-11-2019 19-12-2019 Greece 
+/numPatientDischarges WestVirginia 22-11-1991 20-05-2019 Iraq 
+/topk-AgeRanges 3 Bahrain H1N1 23-06-2000 20-02-2017 
+/topk-AgeRanges 4 Greece EVD 13-07-2016 04-04-2017 
+/topk-AgeRanges 1 Malawi EVD 08-10-2006 02-12-2012 
+/numPatientDischarges SARS-1 30-04-2014 24-02-2016  
+/numPatientDischarges SARS-1 11-04-2003 02-12-2014  
+/numPatientDischarges EBOLA 04-02-1997 13-12-2012  
+/numPatientAdmissions SARS-COV-2 13-01-1999 24-07-2017 Finland 
+/numPatientAdmissions WestVirginia 26-10-2012 30-04-2013 Malawi 
+/diseaseFrequency WestVirginia 23-07-1994 14-04-2006 Malawi 
+/topk-AgeRanges 1 Chad H1N1 17-07-2013 03-11-2014 
+/numPatientDischarges EBOLA 09-12-2011 29-01-2015 Chile 
+/topk-AgeRanges 4 Bahrain SARS-1 24-11-2018 14-06-2019 
+/diseaseFrequency COVID-2019 29-03-2002 25-12-2018  
+/numPatientDischarges WestVirginia 30-07-2013 27-12-2019  
+/numPatientDischarges EBOLA 27-12-2016 06-09-2019  
+/numPatientDischarges COVID-2019 08-12-2003 29-11-2012 Iraq 
+/topk-AgeRanges 4 Bahrain MERS-COV 27-12-2005 09-01-2010 
+/topk-AgeRanges 3 Malawi H1N1 30-01-2014 25-08-2016 
+/numPatientDischarges WestVirginia 20-02-2008 15-07-2016 Finland 
+/numPatientDischarges MERS-COV 11-04-1992 25-02-2016 Bahrain 
+/numPatientDischarges H1N1 14-04-1995 19-11-2009 Chad 
+/numPatientDischarges SARS-COV-2 17-08-2000 07-04-2019  
+/numPatientDischarges EBOLA 13-06-2016 26-01-2018 Tanzania 
+/numPatientDischarges FLU-2018 13-01-2007 09-10-2008 Bahrain 
+/searchPatientRecord 69 
+/numPatientAdmissions SARS-1 08-09-1993 13-05-2004 Malawi 
+/searchPatientRecord 853 
+/numPatientAdmissions EBOLA 25-03-2007 04-12-2014 Greece 
+/numPatientAdmissions SARS-1 17-12-2016 23-03-2019 Bahrain 
+/numPatientDischarges COVID-2019 20-05-1990 09-04-2008 Iraq 
+/diseaseFrequency SARS-COV-2 07-04-2008 07-09-2011 Bahrain 
+/diseaseFrequency MERS-COV 20-04-2003 20-06-2008  
+/numPatientAdmissions SARS-1 21-05-1999 03-05-2019  
+/numPatientDischarges FLU-2018 03-03-2010 09-03-2013 Latvia 
+/numPatientAdmissions SARS-COV-2 16-08-2003 12-08-2015 Denmark 
+/searchPatientRecord 707 
+/numPatientDischarges MERS-COV 13-09-1998 21-01-2019  
+/numPatientDischarges EVD 11-04-2007 11-05-2016  
+/diseaseFrequency SARS-COV-2 02-11-2002 25-10-2012  
+/topk-AgeRanges 1 Chad SARS-1 22-10-1997 18-06-2011 
+/searchPatientRecord 58 
+/topk-AgeRanges 4 Iraq WestVirginia 16-11-2003 16-10-2008 
+/diseaseFrequency WestVirginia 11-08-2004 09-06-2019 Chad 
+/topk-AgeRanges 3 Finland EBOLA 16-09-2003 05-10-2008 
+/diseaseFrequency MERS-COV 11-02-2001 28-05-2016  
+/numPatientAdmissions MERS-COV 19-08-2015 30-09-2017  
+/numPatientDischarges FLU-2018 02-09-2009 02-07-2015  
+/numPatientDischarges WestVirginia 28-01-1991 16-04-2012 Iraq 
+/diseaseFrequency WestVirginia 19-06-2014 04-08-2018 Finland 
+/searchPatientRecord 24 
+/topk-AgeRanges 4 Chile WestVirginia 13-08-2006 09-09-2018 
+/numPatientDischarges WestVirginia 05-10-2002 16-03-2015  
+/topk-AgeRanges 3 Finland FLU-2018 05-12-2016 13-11-2017 
+/searchPatientRecord 370 
+/numPatientDischarges EBOLA 16-07-2002 13-01-2016  
+/searchPatientRecord 993 
+/numPatientAdmissions MERS-COV 17-05-1990 22-01-2002  
+/numPatientDischarges H1N1 23-10-2013 07-11-2013 Finland 
+/numPatientAdmissions MERS-COV 22-10-2006 03-07-2014  
+/searchPatientRecord 178 
+/searchPatientRecord 522 
+/diseaseFrequency TAKAMOURI 16-04-2006 24-05-2015 Latvia 
+/numPatientAdmissions SARS-1 18-08-1990 03-10-2004 Chad 
+/numPatientDischarges FLU-2018 11-04-1990 10-08-2005  
+/diseaseFrequency H1N1 24-04-2019 26-12-2019 Chad 
+/numPatientAdmissions COVID-2019 02-11-2015 08-05-2017  
+/numPatientAdmissions EVD 10-10-2009 29-10-2012 Iraq 
+/numPatientAdmissions MERS-COV 11-10-2018 07-11-2018  
+/numPatientAdmissions COVID-2019 08-07-1993 03-07-2002  
+/diseaseFrequency WestVirginia 28-08-2008 29-05-2013  
+/numPatientDischarges TAKAMOURI 23-11-2005 13-03-2015  
+/searchPatientRecord 908 
+/diseaseFrequency SARS-1 10-05-2009 03-01-2019 Chad 
+/numPatientDischarges WestVirginia 22-06-2011 27-09-2015  
+/numPatientDischarges EBOLA 04-11-1990 28-04-1998 Bahrain 
+/numPatientDischarges MERS-COV 17-08-2013 18-01-2016 Malawi 
+/numPatientAdmissions FLU-2018 10-05-2012 15-12-2012  
+/searchPatientRecord 97 
+/numPatientAdmissions FLU-2018 27-03-2002 17-04-2003 Tanzania 
+/numPatientDischarges EBOLA 24-04-1994 05-05-2004 Chile 
+/diseaseFrequency TAKAMOURI 07-08-2013 28-08-2014  
+/searchPatientRecord 602 
+/numPatientDischarges TAKAMOURI 02-06-2012 22-12-2017 Tanzania 
+/numPatientDischarges EVD 15-05-1994 22-11-2018  
+/diseaseFrequency WestVirginia 02-09-2014 20-07-2017 Chile 
+/numPatientAdmissions SARS-1 14-07-2011 16-05-2013  
+/numPatientAdmissions WestVirginia 04-11-2000 27-09-2001  
+/searchPatientRecord 141 
+/numPatientAdmissions TAKAMOURI 03-07-1999 29-01-2001  
+/numPatientAdmissions EVD 13-03-1994 31-08-2001 Iraq 
+/numPatientDischarges TAKAMOURI 12-12-2018 20-03-2019  
+/numPatientDischarges TAKAMOURI 24-12-2005 28-01-2009  
+/topk-AgeRanges 4 Bahrain MERS-COV 01-02-2003 03-05-2003 
+/diseaseFrequency SARS-1 02-12-2009 23-05-2014 Iraq 
+/numPatientDischarges FLU-2018 10-09-2006 13-03-2012 Tanzania 
+/numPatientDischarges TAKAMOURI 01-10-2018 05-02-2019 Bahrain 
+/topk-AgeRanges 4 Bahrain COVID-2019 20-12-2012 06-08-2017 
+/numPatientAdmissions TAKAMOURI 20-11-1992 31-10-2000 Denmark 
+/numPatientAdmissions SARS-COV-2 22-04-2011 20-11-2016  
+/numPatientAdmissions COVID-2019 19-06-1995 31-03-2017  
+/diseaseFrequency MERS-COV 08-10-2003 14-11-2014  
+/numPatientDischarges SARS-COV-2 10-07-2001 06-08-2016 Denmark 
+/diseaseFrequency FLU-2018 27-12-1993 04-10-2019 Iraq 
+/topk-AgeRanges 4 Bahrain SARS-1 12-12-1997 22-04-1998 
+/diseaseFrequency EVD 02-01-1998 06-11-2014  
+/numPatientAdmissions TAKAMOURI 16-08-2000 10-09-2009 Iraq 
+/numPatientDischarges TAKAMOURI 27-10-2019 04-11-2019  
+/topk-AgeRanges 1 Chad SARS-COV-2 04-09-2004 02-05-2013 
+/numPatientAdmissions EBOLA 10-11-1994 30-03-2012 Bahrain 
+/topk-AgeRanges 2 Malawi TAKAMOURI 08-06-2008 21-03-2017 
+/numPatientAdmissions MERS-COV 18-02-2009 23-09-2015 Malawi 
+/numPatientDischarges H1N1 13-07-2017 28-12-2019 Chad 
+/numPatientDischarges COVID-2019 22-03-1990 22-01-1999 Greece 
+/numPatientAdmissions EBOLA 21-12-2007 12-10-2016  
+/numPatientDischarges MERS-COV 24-11-2011 24-05-2015 Bahrain 
+/numPatientAdmissions FLU-2018 21-10-1993 02-08-2011  
+/numPatientDischarges FLU-2018 28-11-2001 10-12-2018 Malawi 
+/searchPatientRecord 123 
+/topk-AgeRanges 3 Iraq EBOLA 10-06-2015 17-03-2019 
+/numPatientAdmissions EBOLA 20-03-2007 19-04-2010 Bahrain 
+/diseaseFrequency SARS-1 21-06-2010 19-08-2015 Denmark 
+/numPatientAdmissions SARS-COV-2 19-07-2014 25-04-2015 Chile 
+/topk-AgeRanges 1 Finland EBOLA 08-05-2004 14-06-2006 
+/searchPatientRecord 181 
+/topk-AgeRanges 2 Bahrain MERS-COV 14-05-2002 20-11-2004 
+/numPatientDischarges MERS-COV 16-09-1995 20-04-2002  
+/diseaseFrequency TAKAMOURI 29-11-2019 19-12-2019  
+/diseaseFrequency TAKAMOURI 29-07-2013 08-09-2018 Tanzania 
+/numPatientDischarges EBOLA 25-07-1993 13-08-1999  
+/searchPatientRecord 517 
+/numPatientAdmissions SARS-1 08-03-1992 13-09-1995 Bahrain 
+/numPatientAdmissions FLU-2018 13-12-1998 03-01-2006 Iraq 
+/searchPatientRecord 837 
+/numPatientDischarges H1N1 06-07-2009 15-11-2015 Iraq 
+/numPatientDischarges EVD 27-08-2001 24-08-2013 Greece 
+/diseaseFrequency MERS-COV 27-11-2013 06-02-2016  
+/topk-AgeRanges 4 Chile EBOLA 05-11-1996 17-11-2010 
+/diseaseFrequency H1N1 03-11-1996 05-07-2019  
+/numPatientDischarges TAKAMOURI 11-08-2015 08-04-2018 Tanzania 
+/numPatientDischarges EVD 05-11-1999 11-07-2007  
+/topk-AgeRanges 1 Chile WestVirginia 25-09-1996 13-06-2016 
+/numPatientAdmissions EVD 12-09-2014 16-11-2017 Chad 
+/topk-AgeRanges 2 Iraq H1N1 11-04-2005 29-07-2014 
+/numPatientAdmissions FLU-2018 01-12-1996 26-06-2016  
+/numPatientDischarges EVD 18-10-2017 26-03-2018 Chad 
+/topk-AgeRanges 4 Malawi EVD 08-10-1997 24-10-2011 
+/topk-AgeRanges 2 Denmark SARS-1 29-09-1998 29-07-2004 
+/topk-AgeRanges 2 Chad EVD 01-09-2002 10-03-2014 
+/searchPatientRecord 809 
+/numPatientAdmissions SARS-1 01-10-2011 21-05-2017  
+/topk-AgeRanges 4 Chile TAKAMOURI 07-05-2007 23-10-2017 
+/diseaseFrequency EVD 22-03-2016 10-06-2019  
+/topk-AgeRanges 2 Tanzania MERS-COV 16-01-2019 24-02-2019 
+/numPatientAdmissions MERS-COV 11-03-1996 11-12-2000  
+/searchPatientRecord 390 
+/searchPatientRecord 85 
+/searchPatientRecord 808 
+/numPatientAdmissions EBOLA 30-12-2000 20-12-2008 Bahrain 
+/numPatientAdmissions WestVirginia 09-02-1998 16-03-2010  
+/numPatientAdmissions EBOLA 22-05-2006 11-04-2011 Chad 
+/topk-AgeRanges 3 Tanzania MERS-COV 28-02-2007 06-03-2013 
+/numPatientAdmissions EBOLA 27-09-2000 15-02-2009 Finland 
+/topk-AgeRanges 4 Greece EBOLA 19-07-2008 06-02-2012 
+/searchPatientRecord 798 
+/numPatientAdmissions WestVirginia 01-12-2015 01-07-2017 Finland 
+/numPatientAdmissions EVD 13-07-2006 27-05-2010 Tanzania 
+/numPatientDischarges FLU-2018 08-01-2011 27-01-2016  
+/numPatientAdmissions EVD 27-08-1993 17-04-1995  
+/numPatientAdmissions FLU-2018 03-12-2003 04-06-2017 Denmark 
+/searchPatientRecord 72 
+/searchPatientRecord 295 
+/topk-AgeRanges 3 Malawi MERS-COV 10-04-2002 21-03-2006 
+/topk-AgeRanges 1 Finland EBOLA 06-04-1999 27-01-2015 
+/searchPatientRecord 868 
+/searchPatientRecord 638 
+/topk-AgeRanges 3 Tanzania SARS-COV-2 17-02-2012 11-10-2013 
+/numPatientAdmissions H1N1 25-03-1998 25-06-2004  
+/numPatientAdmissions SARS-1 17-03-2010 19-06-2018 Bahrain 
+/diseaseFrequency FLU-2018 28-06-2014 22-02-2018 Malawi 
+/numPatientDischarges MERS-COV 13-02-1998 02-05-2014  
+/topk-AgeRanges 2 Malawi EBOLA 29-06-1998 16-02-2005 
+/searchPatientRecord 721 
+/numPatientDischarges SARS-COV-2 25-05-2014 15-04-2016 Bahrain 
+/searchPatientRecord 372 
+/diseaseFrequency SARS-COV-2 01-10-2016 15-05-2017 Bahrain 
+/searchPatientRecord 322 
+/topk-AgeRanges 2 Latvia COVID-2019 22-04-2001 13-08-2018 
+/numPatientDischarges H1N1 23-11-2016 19-01-2017  
+/searchPatientRecord 958 
+/topk-AgeRanges 2 Bahrain WestVirginia 27-07-2011 25-01-2014 
+/numPatientAdmissions TAKAMOURI 17-01-1993 06-08-2018  
+/topk-AgeRanges 3 Latvia SARS-COV-2 10-08-2019 19-10-2019 
+/diseaseFrequency COVID-2019 23-02-1991 02-12-2001  
+/numPatientDischarges MERS-COV 29-06-2015 27-08-2018  
+/numPatientDischarges MERS-COV 10-06-2008 21-09-2018  
+/numPatientDischarges SARS-COV-2 25-07-2014 15-10-2014  
+/topk-AgeRanges 4 Chile TAKAMOURI 30-07-1991 30-10-2000 
+/diseaseFrequency EBOLA 03-05-2015 13-09-2017  
+/searchPatientRecord 960 
+/diseaseFrequency MERS-COV 03-04-2005 27-12-2014 Latvia 
+/numPatientAdmissions SARS-COV-2 23-04-2001 01-04-2006 Chad 
+/numPatientDischarges H1N1 08-03-2002 24-01-2019  
+/numPatientAdmissions EBOLA 02-09-2019 01-11-2019  
+/numPatientAdmissions EBOLA 06-07-2018 25-08-2018  
+/searchPatientRecord 556 
+/numPatientDischarges COVID-2019 19-09-2017 13-09-2018 Chad 
+/numPatientDischarges EVD 11-04-2014 18-01-2015  
+/diseaseFrequency EBOLA 17-04-1993 11-04-2004  
+/numPatientAdmissions TAKAMOURI 09-01-2013 25-12-2019  
+/topk-AgeRanges 1 Malawi H1N1 19-02-2019 18-11-2019 
+/searchPatientRecord 502 
+/numPatientDischarges SARS-1 14-02-2006 27-08-2017  
+/searchPatientRecord 98 
+/numPatientDischarges FLU-2018 06-03-1999 02-05-2019 Greece 
+/numPatientDischarges COVID-2019 19-02-2008 23-04-2012 Chad 
+/diseaseFrequency SARS-COV-2 07-12-1996 19-10-2018 Chad 
+/topk-AgeRanges 1 Chile MERS-COV 14-05-1993 17-12-2000 
+/diseaseFrequency COVID-2019 07-11-2006 22-12-2010  
+/diseaseFrequency FLU-2018 04-06-2007 08-09-2015  
+/numPatientDischarges EVD 21-01-2015 30-03-2018 Bahrain 
+/searchPatientRecord 216 
+/topk-AgeRanges 2 Bahrain H1N1 13-04-1994 21-10-2016 
+/numPatientDischarges MERS-COV 11-12-2011 12-09-2013 Tanzania 
+/searchPatientRecord 55 
+/topk-AgeRanges 4 Latvia MERS-COV 01-01-2014 19-05-2018 
+/numPatientDischarges SARS-COV-2 24-10-1997 08-08-2000 Malawi 
+/searchPatientRecord 945 
+/numPatientDischarges H1N1 24-07-2001 22-04-2013  
+/numPatientDischarges COVID-2019 15-05-2008 13-09-2009 Denmark 
+/searchPatientRecord 287 
+/numPatientDischarges EVD 27-02-1996 06-09-2009  
+/searchPatientRecord 842 
+/numPatientDischarges COVID-2019 24-04-1991 19-06-1991  
+/topk-AgeRanges 2 Latvia COVID-2019 11-09-2012 13-07-2018 
+/searchPatientRecord 591 
+/diseaseFrequency COVID-2019 23-12-2011 21-08-2019 Chile 
+/numPatientAdmissions WestVirginia 19-09-2014 29-10-2016  
+/diseaseFrequency TAKAMOURI 15-01-1994 13-02-2000 Chile 
+/numPatientAdmissions SARS-1 28-06-2018 30-07-2019  
+/topk-AgeRanges 1 Malawi EVD 04-07-2017 26-09-2017 
+/topk-AgeRanges 2 Bahrain EBOLA 31-05-2001 10-12-2014 
+/searchPatientRecord 641 
+/topk-AgeRanges 1 Finland MERS-COV 10-05-2015 05-07-2015 
+/numPatientAdmissions EVD 31-10-1990 21-06-2003  
+/topk-AgeRanges 3 Finland MERS-COV 27-03-2001 27-01-2007 
+/numPatientAdmissions EBOLA 30-04-2001 27-05-2012  
+/numPatientDischarges COVID-2019 23-11-2003 28-05-2006 Iraq 
+/diseaseFrequency SARS-COV-2 20-01-2005 18-02-2008  
+/numPatientAdmissions TAKAMOURI 25-11-2017 26-01-2019  
+/numPatientDischarges EBOLA 23-07-2007 20-09-2008  
+/diseaseFrequency TAKAMOURI 09-01-2002 29-08-2015 Chile 
+/numPatientDischarges TAKAMOURI 12-05-2017 06-12-2019 Chile 
+/searchPatientRecord 937 
+/numPatientAdmissions EVD 31-12-2006 08-04-2017  
+/numPatientDischarges EVD 12-02-1991 28-04-2016 Denmark 
+/numPatientDischarges WestVirginia 14-02-1999 19-05-2001 Chile 
+/diseaseFrequency EBOLA 11-01-2011 08-06-2016  
+/topk-AgeRanges 2 Tanzania EBOLA 04-07-2004 26-11-2013 
+/numPatientAdmissions FLU-2018 02-12-2002 22-05-2010  
+/searchPatientRecord 31 
+/searchPatientRecord 410 
+/searchPatientRecord 388 
+/diseaseFrequency COVID-2019 28-04-2007 09-07-2016  
+/searchPatientRecord 587 
+/diseaseFrequency EBOLA 10-04-2019 27-11-2019  
+/numPatientAdmissions TAKAMOURI 12-02-1990 27-10-2012  
+/topk-AgeRanges 4 Iraq COVID-2019 12-11-1997 05-09-2002 
+/topk-AgeRanges 3 Malawi COVID-2019 29-10-1997 06-04-2019 
+/diseaseFrequency SARS-COV-2 01-05-2002 23-02-2007  
+/diseaseFrequency EBOLA 20-11-1993 18-03-2002 Greece 
+/numPatientDischarges EVD 23-03-2007 16-09-2016  
+/topk-AgeRanges 1 Latvia WestVirginia 04-04-1995 28-12-2004 
+/numPatientDischarges TAKAMOURI 20-04-2017 01-06-2019  
+/numPatientAdmissions FLU-2018 29-09-2000 09-03-2004 Chile 
+/diseaseFrequency SARS-COV-2 20-05-2001 13-06-2013 Chile 
+/numPatientDischarges MERS-COV 18-06-2007 01-09-2019 Latvia 
+/searchPatientRecord 34 
+/topk-AgeRanges 4 Finland COVID-2019 31-07-2019 02-01-2020 
+/searchPatientRecord 22 
+/topk-AgeRanges 1 Denmark SARS-1 12-11-2008 14-07-2011 
+/diseaseFrequency H1N1 19-11-2016 07-08-2018  
+/numPatientDischarges TAKAMOURI 04-02-2002 13-07-2007  
+/diseaseFrequency TAKAMOURI 23-04-2014 15-05-2014  
+/topk-AgeRanges 3 Iraq WestVirginia 25-03-2016 06-01-2019 
+/numPatientDischarges TAKAMOURI 26-10-2006 15-05-2014  
+/diseaseFrequency SARS-1 03-02-2009 03-03-2010 Chile 
+/numPatientDischarges EBOLA 30-06-2000 17-10-2007  
+/searchPatientRecord 863 
+/numPatientDischarges EVD 02-11-2013 16-10-2019  
+/searchPatientRecord 778 
+/numPatientDischarges EVD 01-08-2008 25-01-2012  
+/numPatientDischarges SARS-1 08-12-2000 04-04-2003  
+/numPatientAdmissions SARS-1 01-03-2016 25-04-2017 Iraq 
+/topk-AgeRanges 1 Denmark TAKAMOURI 15-07-2014 12-01-2016 
+/diseaseFrequency FLU-2018 20-04-2011 09-02-2014 Malawi 
+/searchPatientRecord 922 
+/searchPatientRecord 316 
+/numPatientAdmissions FLU-2018 16-12-2004 08-06-2011 Bahrain 
+/searchPatientRecord 297 
+/numPatientAdmissions WestVirginia 09-08-2012 18-08-2017 Chile 
+/searchPatientRecord 346 
+/topk-AgeRanges 1 Tanzania FLU-2018 29-01-1993 01-07-2002 
+/diseaseFrequency MERS-COV 25-01-2001 20-09-2015  
+/searchPatientRecord 735 
+/topk-AgeRanges 3 Iraq TAKAMOURI 25-12-2004 14-07-2015 
+/searchPatientRecord 154 
+/topk-AgeRanges 4 Chile FLU-2018 22-12-2003 30-08-2006 
+/topk-AgeRanges 3 Finland COVID-2019 10-09-2003 28-11-2005 
+/topk-AgeRanges 1 Tanzania MERS-COV 20-01-2001 18-07-2008 
+/topk-AgeRanges 1 Chile SARS-COV-2 22-11-2019 16-12-2019 
+/numPatientAdmissions EBOLA 12-11-2003 20-01-2005 Iraq 
+/numPatientDischarges H1N1 06-05-2018 06-10-2019  
+/diseaseFrequency EVD 13-01-2009 26-12-2018  
+/searchPatientRecord 476 
+/numPatientAdmissions COVID-2019 09-08-2007 20-11-2015  
+/diseaseFrequency WestVirginia 30-07-2011 19-02-2018 Chile 
+/topk-AgeRanges 1 Denmark EBOLA 10-09-1997 02-10-2008 
+/numPatientDischarges FLU-2018 01-12-2004 22-01-2008 Chile 
+/numPatientAdmissions FLU-2018 21-07-1992 21-03-2007 Greece 
+/topk-AgeRanges 3 Bahrain H1N1 17-10-2017 09-01-2020 
+/numPatientDischarges SARS-1 13-09-2006 22-05-2018 Bahrain 
+/searchPatientRecord 89 
+/numPatientDischarges MERS-COV 11-03-1992 07-04-2007  
+/searchPatientRecord 64 
+/numPatientDischarges MERS-COV 28-08-2003 03-02-2018 Greece 
+/diseaseFrequency H1N1 02-02-2011 14-11-2011 Tanzania 
+/searchPatientRecord 110 
+/numPatientAdmissions WestVirginia 01-01-2013 07-02-2015  
+/searchPatientRecord 193 
+/searchPatientRecord 877 
+/numPatientDischarges EVD 12-12-1996 13-02-2006 Denmark 
+/topk-AgeRanges 2 Finland WestVirginia 17-11-2007 16-07-2014 
+/diseaseFrequency WestVirginia 09-12-2009 27-10-2014 Greece 
+/numPatientAdmissions COVID-2019 10-12-2005 12-10-2006 Iraq 
+/topk-AgeRanges 4 Malawi SARS-1 05-05-2012 11-03-2018 
+/numPatientAdmissions EVD 18-02-2013 24-08-2019  
+/numPatientAdmissions EBOLA 27-05-2004 09-09-2005 Iraq 
+/numPatientDischarges MERS-COV 27-10-1998 19-06-2002 Malawi 
+/numPatientAdmissions TAKAMOURI 03-08-1995 22-04-2000  
+/numPatientDischarges EBOLA 26-02-2009 06-04-2019  
+/diseaseFrequency COVID-2019 13-08-2018 25-11-2018 Greece 
+/numPatientDischarges FLU-2018 10-12-2000 17-06-2016  
+/diseaseFrequency TAKAMOURI 14-03-2006 30-12-2017  
+/searchPatientRecord 361 
+/numPatientDischarges COVID-2019 01-11-2011 07-06-2014  
+/topk-AgeRanges 3 Malawi COVID-2019 24-09-2012 01-10-2018 
+/diseaseFrequency WestVirginia 23-07-2007 04-09-2014  
+/topk-AgeRanges 2 Chad H1N1 29-03-2007 25-06-2007 
+/diseaseFrequency SARS-1 15-06-1993 20-12-2002  
+/numPatientAdmissions EBOLA 22-09-1997 12-01-2001  
+/diseaseFrequency TAKAMOURI 18-10-2014 28-03-2017 Denmark 
+/searchPatientRecord 497 
+/diseaseFrequency EVD 22-12-1997 18-03-1999 Chile 
+/numPatientDischarges MERS-COV 20-01-2015 10-05-2015 Malawi 
+/searchPatientRecord 344 
+/searchPatientRecord 720 
+/searchPatientRecord 802 
+/numPatientAdmissions EVD 09-04-1996 09-07-1996 Chile 
+/numPatientDischarges EBOLA 29-12-2006 25-03-2012 Chile 
+/numPatientDischarges TAKAMOURI 17-10-1993 28-05-2000  
+/searchPatientRecord 257 
+/diseaseFrequency SARS-1 29-09-1992 10-08-1996  
+/diseaseFrequency H1N1 05-11-1998 06-08-2013 Chad 
+/diseaseFrequency WestVirginia 14-12-1991 29-08-1999  
+/topk-AgeRanges 3 Latvia SARS-COV-2 09-08-2009 29-11-2011 
+/numPatientDischarges EBOLA 22-04-1996 11-02-2016 Chile 
+/numPatientDischarges H1N1 15-11-2009 16-10-2011 Denmark 
+/searchPatientRecord 674 
+/numPatientAdmissions COVID-2019 07-02-2001 24-04-2019 Bahrain 
+/diseaseFrequency FLU-2018 02-04-2012 19-10-2019  
+/diseaseFrequency TAKAMOURI 05-05-2003 08-02-2011  
+/numPatientDischarges FLU-2018 24-10-2015 29-08-2019 Chile 
+/numPatientDischarges MERS-COV 20-11-2015 25-02-2018 Finland 
+/diseaseFrequency EVD 10-03-1992 16-09-2005 Tanzania 
+/searchPatientRecord 755 
+/numPatientDischarges SARS-1 09-02-2006 26-12-2008  
+/searchPatientRecord 800 
+/diseaseFrequency SARS-1 02-09-2017 26-07-2019 Chile 
+/numPatientDischarges COVID-2019 14-05-2018 19-10-2019  
+/numPatientAdmissions H1N1 08-05-1996 30-05-2000 Denmark 
+/topk-AgeRanges 4 Chad TAKAMOURI 07-08-2013 23-07-2016 
+/topk-AgeRanges 3 Chile COVID-2019 21-05-2007 29-06-2012 
+/numPatientAdmissions TAKAMOURI 14-03-2009 19-01-2017 Greece 
+/topk-AgeRanges 1 Tanzania COVID-2019 29-09-2013 02-10-2019 
+/topk-AgeRanges 3 Latvia COVID-2019 30-06-1995 25-11-2018 
+/topk-AgeRanges 1 Greece SARS-COV-2 29-10-2000 27-07-2015 
+/topk-AgeRanges 2 Latvia TAKAMOURI 08-08-2005 02-12-2018 
+/searchPatientRecord 862 
+/numPatientDischarges SARS-COV-2 03-02-2013 26-11-2016 Malawi 
+/numPatientAdmissions COVID-2019 18-07-2016 23-11-2016  
+/diseaseFrequency SARS-1 23-08-2015 07-01-2017  
+/searchPatientRecord 658 
+/numPatientAdmissions FLU-2018 23-02-2015 17-06-2016 Denmark 
+/numPatientAdmissions EVD 03-03-2013 23-05-2018 Greece 
+/topk-AgeRanges 2 Chile EBOLA 04-11-1997 10-12-2010 
+/numPatientDischarges SARS-1 05-03-2001 11-10-2014 Finland 
+/diseaseFrequency TAKAMOURI 09-05-1990 12-05-1992 Malawi 
+/numPatientAdmissions WestVirginia 04-10-2014 03-08-2018  
+/numPatientDischarges EVD 24-12-2015 12-11-2017  
+/numPatientDischarges H1N1 26-02-1999 16-12-2004  
+/diseaseFrequency EBOLA 31-01-1991 29-06-2008 Greece 
+/topk-AgeRanges 1 Chad COVID-2019 16-05-2018 18-06-2019 
+/numPatientAdmissions SARS-1 03-03-2008 14-12-2014  
+/numPatientAdmissions MERS-COV 18-08-2011 07-02-2016  
+/diseaseFrequency EVD 08-08-2014 14-09-2016  
+/numPatientDischarges MERS-COV 04-04-2003 18-04-2018 Malawi 
+/topk-AgeRanges 3 Latvia MERS-COV 07-05-2002 15-11-2018 
+/numPatientDischarges COVID-2019 28-07-2017 25-10-2019 Latvia 
+/searchPatientRecord 981 
+/topk-AgeRanges 3 Chad EBOLA 03-08-2003 17-08-2017 
+/numPatientAdmissions EVD 31-07-2018 17-11-2019 Latvia 
+/diseaseFrequency EVD 27-05-1998 10-08-2000 Latvia 
+/numPatientAdmissions TAKAMOURI 23-02-2014 20-07-2018  
+/numPatientDischarges H1N1 17-02-2005 22-05-2010  
+/numPatientDischarges MERS-COV 07-11-2008 01-05-2013  
+/topk-AgeRanges 2 Bahrain COVID-2019 08-10-2018 06-10-2019 
+/searchPatientRecord 197 
+/numPatientAdmissions H1N1 06-10-2003 29-07-2004  
+/numPatientDischarges COVID-2019 15-07-2002 02-06-2008  
+/searchPatientRecord 270 
+/topk-AgeRanges 3 Bahrain EBOLA 12-06-1999 19-06-2002 
+/numPatientDischarges WestVirginia 16-08-2010 02-08-2014 Chad 
+/numPatientDischarges EVD 18-11-1991 08-05-1992  
+/numPatientDischarges MERS-COV 08-03-2018 25-07-2018 Greece 
+/diseaseFrequency WestVirginia 23-06-1990 16-12-2013 Latvia 
+/numPatientAdmissions H1N1 02-06-2011 07-02-2013 Finland 
+/topk-AgeRanges 4 Iraq WestVirginia 11-04-2013 24-05-2014 
+/searchPatientRecord 601 
+/numPatientAdmissions WestVirginia 24-02-1994 25-03-2019 Finland 
+/topk-AgeRanges 4 Bahrain EVD 24-02-2007 22-04-2017 
+/topk-AgeRanges 3 Chad EVD 29-03-2019 10-07-2019 
+/numPatientAdmissions FLU-2018 09-02-2015 02-03-2019  
+/searchPatientRecord 786 
+/numPatientDischarges TAKAMOURI 23-02-1998 18-03-2007 Iraq 
+/numPatientAdmissions WestVirginia 14-02-1996 24-02-2001 Bahrain 
+/numPatientDischarges WestVirginia 09-04-2012 07-06-2018 Malawi 
+/diseaseFrequency WestVirginia 27-09-2013 17-09-2014  
+/numPatientDischarges MERS-COV 26-07-2014 01-04-2016 Greece 
+/numPatientAdmissions WestVirginia 15-04-2008 06-07-2018 Chile 
+/numPatientDischarges EVD 19-08-2001 17-03-2002 Latvia 
+/numPatientDischarges EBOLA 23-08-2001 28-01-2008 Greece 
+/diseaseFrequency MERS-COV 22-06-2016 21-09-2016 Chile 
+/numPatientAdmissions SARS-COV-2 19-03-2006 30-08-2017  
+/searchPatientRecord 496 
+/diseaseFrequency WestVirginia 28-08-2018 03-06-2019  
+/topk-AgeRanges 1 Denmark EVD 29-12-1990 30-04-1994 
+/topk-AgeRanges 4 Greece MERS-COV 26-10-2018 17-11-2019 
+/topk-AgeRanges 3 Latvia COVID-2019 28-08-1993 25-10-2006 
+/searchPatientRecord 558 
+/numPatientAdmissions FLU-2018 20-01-2009 16-07-2017 Chile 
+/searchPatientRecord 607 
+/searchPatientRecord 434 
+/searchPatientRecord 170 
+/numPatientDischarges FLU-2018 16-08-2005 27-12-2017  
+/topk-AgeRanges 4 Denmark COVID-2019 24-07-2001 12-01-2006 
+/numPatientDischarges EVD 17-09-2018 22-11-2018  
+/numPatientAdmissions EVD 21-11-1996 15-09-2008  
+/diseaseFrequency FLU-2018 11-02-2009 04-12-2019 Bahrain 
+/topk-AgeRanges 1 Latvia H1N1 15-03-2009 26-10-2014 
+/topk-AgeRanges 2 Chile WestVirginia 15-05-2010 16-11-2011 
+/diseaseFrequency FLU-2018 29-05-2009 11-06-2017 Chad 
+/searchPatientRecord 437 
+/numPatientAdmissions EBOLA 14-08-2011 15-02-2014 Latvia 
+/topk-AgeRanges 2 Greece H1N1 01-01-2017 09-04-2018 
+/numPatientDischarges EVD 11-03-2008 03-09-2009  
+/numPatientAdmissions COVID-2019 07-11-2017 03-12-2019 Latvia 
+/numPatientDischarges EBOLA 07-06-1992 19-01-2014 Chile 
+/searchPatientRecord 763 
+/searchPatientRecord 50 
+/numPatientDischarges FLU-2018 01-01-1994 07-07-2017  
+/searchPatientRecord 223 
+/topk-AgeRanges 2 Latvia TAKAMOURI 26-11-1992 02-10-2003 
+/numPatientAdmissions H1N1 07-11-2002 13-06-2011  
+/searchPatientRecord 758 
+/numPatientDischarges WestVirginia 20-01-1991 23-03-2012  
+/topk-AgeRanges 3 Finland TAKAMOURI 16-12-1995 05-12-1999 
+/diseaseFrequency COVID-2019 29-09-1996 23-04-2000  
+/searchPatientRecord 670 
+/topk-AgeRanges 3 Latvia TAKAMOURI 19-02-1994 03-09-2012 
+/numPatientAdmissions EBOLA 08-03-1991 27-05-1992 Finland 
+/numPatientDischarges MERS-COV 02-06-1999 14-07-2006  
+/diseaseFrequency SARS-1 01-06-2006 24-11-2012 Bahrain 
+/numPatientAdmissions COVID-2019 26-01-2001 31-03-2011  
+/numPatientDischarges SARS-COV-2 04-10-1990 09-03-1998  
+/searchPatientRecord 510 
+/diseaseFrequency EVD 30-09-2016 24-01-2017  
+/numPatientDischarges EVD 14-05-1997 02-08-2002  
+/numPatientDischarges H1N1 04-11-1994 23-03-2018 Bahrain 
+/searchPatientRecord 216 
+/diseaseFrequency COVID-2019 15-07-2012 25-11-2019 Denmark 
+/topk-AgeRanges 1 Chad EBOLA 26-11-2007 24-07-2009 
+/searchPatientRecord 230 
+/topk-AgeRanges 4 Bahrain EVD 28-09-1992 14-09-2014 
+/diseaseFrequency WestVirginia 19-07-2018 29-12-2019 Iraq 
+/numPatientDischarges EBOLA 23-11-1990 29-07-1993 Iraq 
+/topk-AgeRanges 3 Chile FLU-2018 10-06-2011 06-07-2013 
+/diseaseFrequency FLU-2018 12-07-2004 31-05-2005 Greece 
+/searchPatientRecord 430 
+/numPatientDischarges H1N1 27-09-2010 27-11-2018 Denmark 
+/numPatientDischarges MERS-COV 15-04-2010 16-10-2017  
+/numPatientAdmissions WestVirginia 08-06-2006 28-09-2009  
+/diseaseFrequency FLU-2018 30-03-2014 24-02-2019  
+/numPatientAdmissions FLU-2018 28-09-2006 20-11-2008 Malawi 
+/topk-AgeRanges 1 Chile COVID-2019 03-09-2008 04-12-2012 
+/searchPatientRecord 205 
+/topk-AgeRanges 1 Latvia SARS-COV-2 28-07-2014 27-10-2016 
+/topk-AgeRanges 4 Chad COVID-2019 23-03-2000 05-05-2014 
+/numPatientDischarges TAKAMOURI 21-06-2011 27-01-2017 Malawi 
+/topk-AgeRanges 3 Malawi WestVirginia 17-01-2018 13-07-2018 
+/numPatientDischarges SARS-COV-2 24-10-2001 17-12-2007 Finland 
+/searchPatientRecord 584 
+/numPatientAdmissions TAKAMOURI 17-02-2007 21-06-2018  
+/searchPatientRecord 581 
+/numPatientDischarges MERS-COV 09-05-2000 14-02-2005  
+/diseaseFrequency EVD 23-01-2008 17-11-2016  
+/topk-AgeRanges 3 Tanzania COVID-2019 24-12-1997 05-11-2015 
+/topk-AgeRanges 1 Denmark H1N1 30-11-1996 28-05-2014 
+/numPatientDischarges MERS-COV 21-03-2013 18-02-2019  
+/topk-AgeRanges 3 Tanzania EBOLA 16-08-1991 27-10-1991 
+/diseaseFrequency FLU-2018 31-10-2008 18-09-2011  
+/topk-AgeRanges 3 Greece SARS-1 01-06-1997 21-01-2011 
+/diseaseFrequency FLU-2018 22-10-1994 28-01-1998  
+/topk-AgeRanges 2 Tanzania MERS-COV 02-11-1992 09-10-2011 
+/diseaseFrequency MERS-COV 22-07-2005 31-10-2018  
+/searchPatientRecord 789 
+/diseaseFrequency SARS-COV-2 02-12-1998 22-09-2015  
+/numPatientAdmissions COVID-2019 29-08-1992 24-02-2009  
+/numPatientDischarges MERS-COV 30-05-1993 10-03-2007 Iraq 
+/searchPatientRecord 331 
+/numPatientAdmissions FLU-2018 12-01-1992 18-06-2003 Iraq 
+/diseaseFrequency TAKAMOURI 04-05-2012 08-03-2018  
+/diseaseFrequency EVD 15-08-1998 13-01-2002  
+/topk-AgeRanges 1 Greece COVID-2019 16-11-2000 31-08-2014 
+/searchPatientRecord 899 
+/numPatientDischarges SARS-1 13-03-2001 05-08-2015  
+/searchPatientRecord 167 
+/topk-AgeRanges 2 Greece MERS-COV 30-03-2006 23-07-2019 
+/numPatientAdmissions COVID-2019 15-04-1991 04-01-2015  
+/topk-AgeRanges 3 Latvia WestVirginia 06-05-2000 30-10-2007 
+/numPatientAdmissions H1N1 01-07-2010 10-11-2018  
+/topk-AgeRanges 1 Latvia WestVirginia 22-10-2010 12-10-2018 
+/topk-AgeRanges 4 Chile FLU-2018 14-02-2011 30-06-2018 
+/topk-AgeRanges 3 Bahrain WestVirginia 05-05-2018 24-04-2019 
+/numPatientDischarges MERS-COV 07-06-2015 04-12-2018 Iraq 
+/topk-AgeRanges 2 Chad H1N1 18-02-2013 06-03-2015 
+/numPatientDischarges EVD 07-01-2006 05-12-2007  
+/diseaseFrequency COVID-2019 13-12-2014 06-10-2017  
+/searchPatientRecord 954 
+/numPatientDischarges EBOLA 30-03-1990 01-01-1993  
+/diseaseFrequency EBOLA 13-03-2014 16-03-2015 Greece 
+/diseaseFrequency SARS-COV-2 21-06-2005 09-02-2018 Finland 
+/searchPatientRecord 941 
+/topk-AgeRanges 4 Tanzania SARS-COV-2 30-04-2003 11-07-2009 
+/searchPatientRecord 180 
+/numPatientDischarges WestVirginia 21-03-2018 18-06-2018  
+/numPatientDischarges EVD 25-11-1999 14-04-2015 Chad 
+/diseaseFrequency COVID-2019 10-07-2011 01-01-2019 Chad 
+/topk-AgeRanges 2 Iraq H1N1 23-11-2012 31-07-2013 
+/searchPatientRecord 885 
+/diseaseFrequency H1N1 28-07-1991 21-06-2002  
+/searchPatientRecord 509 
+/searchPatientRecord 948 
+/numPatientAdmissions MERS-COV 24-01-1991 31-08-1998  
+/diseaseFrequency COVID-2019 09-04-2005 18-12-2011  
+/numPatientDischarges MERS-COV 17-01-1995 11-11-2019  
+/numPatientAdmissions COVID-2019 06-04-2012 27-01-2014  
+/numPatientAdmissions MERS-COV 05-04-1993 22-05-2000  
+/diseaseFrequency TAKAMOURI 08-03-2011 07-09-2019 Malawi 
+/searchPatientRecord 308 
+/topk-AgeRanges 3 Chad SARS-1 26-11-1993 17-05-2018 
+/numPatientAdmissions FLU-2018 05-01-2002 22-06-2002  
+/searchPatientRecord 584 
+/topk-AgeRanges 2 Finland EVD 23-04-2008 05-02-2009 
+/numPatientAdmissions EVD 14-03-2001 17-08-2012  
+/diseaseFrequency MERS-COV 26-10-2004 19-02-2017  
+/numPatientAdmissions FLU-2018 03-03-2004 02-07-2016 Finland 
+/searchPatientRecord 803 
+/numPatientAdmissions FLU-2018 20-03-1995 29-08-2000  
+/topk-AgeRanges 2 Malawi WestVirginia 16-10-2014 21-02-2016 
+/numPatientAdmissions COVID-2019 02-01-2010 17-10-2010  
+/numPatientAdmissions SARS-COV-2 14-04-2003 02-01-2020  
+/numPatientAdmissions WestVirginia 07-09-2003 30-03-2004  
+/diseaseFrequency TAKAMOURI 27-06-2006 30-12-2016  
+/numPatientDischarges TAKAMOURI 24-11-2002 13-02-2019 Tanzania 
+/numPatientAdmissions SARS-COV-2 17-10-1991 29-08-2014  
+/numPatientAdmissions SARS-COV-2 30-05-2018 07-05-2019 Finland 
+/diseaseFrequency EVD 30-03-2009 02-09-2017 Bahrain 
+/numPatientAdmissions SARS-1 08-09-2003 23-12-2009 Chad 
+/diseaseFrequency EBOLA 11-02-2019 31-03-2019 Latvia 
+/diseaseFrequency SARS-COV-2 09-07-1996 11-01-2005 Chad 
+/searchPatientRecord 75 
+/topk-AgeRanges 1 Tanzania TAKAMOURI 24-09-2018 11-08-2019 
+/numPatientAdmissions TAKAMOURI 31-12-2006 31-07-2007  
+/searchPatientRecord 496 
+/numPatientAdmissions SARS-1 22-03-2004 05-08-2014 Chad 
+/searchPatientRecord 693 
+/topk-AgeRanges 3 Finland EBOLA 17-02-1994 26-01-2006 
+/numPatientDischarges MERS-COV 15-12-2015 12-07-2016 Finland 
+/diseaseFrequency COVID-2019 08-08-1996 18-04-1998 Latvia 
+/diseaseFrequency TAKAMOURI 05-07-2011 17-10-2011  
+/diseaseFrequency SARS-1 23-12-2009 15-12-2014  
+/searchPatientRecord 893 
+/diseaseFrequency COVID-2019 24-01-2009 23-05-2014  
+/searchPatientRecord 299 
+/diseaseFrequency MERS-COV 01-05-1992 07-12-2019 Latvia 
+/diseaseFrequency WestVirginia 09-09-2003 09-07-2014  
+/numPatientAdmissions WestVirginia 05-09-2019 08-09-2019  
+/diseaseFrequency EVD 04-01-2001 21-07-2012 Latvia 
+/searchPatientRecord 198 
+/topk-AgeRanges 3 Tanzania EVD 09-10-2019 03-11-2019 
+/numPatientDischarges SARS-COV-2 23-06-2017 28-09-2018  
+/diseaseFrequency EBOLA 29-10-1990 05-02-2016  
+/numPatientDischarges EBOLA 23-03-2019 21-06-2019  
+/diseaseFrequency EBOLA 24-11-1993 06-02-2003  
+/numPatientDischarges SARS-COV-2 22-08-2006 16-12-2016  
+/diseaseFrequency TAKAMOURI 07-10-2013 06-07-2017  
+/numPatientDischarges H1N1 19-10-1990 04-01-2008 Iraq 
+/topk-AgeRanges 4 Greece MERS-COV 13-07-1997 12-07-2004 
+/numPatientDischarges SARS-COV-2 27-10-2011 23-06-2019  
+/numPatientAdmissions SARS-1 07-06-2013 04-12-2016  
+/numPatientDischarges TAKAMOURI 02-03-1998 31-07-2017  
+/diseaseFrequency WestVirginia 01-10-2018 13-01-2019 Iraq 
+/diseaseFrequency TAKAMOURI 05-05-2012 28-09-2016  
+/numPatientAdmissions COVID-2019 15-09-1995 20-06-2006 Finland 
+/numPatientDischarges EVD 14-12-2013 02-06-2019  
+/numPatientAdmissions EBOLA 17-07-2007 23-08-2009 Iraq 
+/numPatientAdmissions SARS-COV-2 09-02-2014 06-11-2015 Tanzania 
+/topk-AgeRanges 2 Bahrain EBOLA 20-12-1991 21-05-1996 
+/diseaseFrequency COVID-2019 10-06-2011 18-02-2016 Iraq 
+/numPatientAdmissions TAKAMOURI 21-11-2000 19-08-2002  
+/numPatientDischarges EVD 29-11-2007 16-07-2017 Tanzania 
+/numPatientDischarges H1N1 14-07-1996 08-01-2012  
+/diseaseFrequency MERS-COV 31-07-1999 04-08-2013  
+/diseaseFrequency WestVirginia 27-10-2002 06-06-2013  
+/searchPatientRecord 494 
+/numPatientDischarges FLU-2018 01-08-2002 10-11-2011 Chad 
+/diseaseFrequency SARS-1 01-06-2017 19-07-2018  
+/diseaseFrequency SARS-1 05-08-2003 26-02-2008 Denmark 
+/searchPatientRecord 386 
+/numPatientDischarges H1N1 17-09-2000 22-08-2002  
+/numPatientAdmissions TAKAMOURI 02-05-2016 06-07-2018 Denmark 
+/diseaseFrequency WestVirginia 08-05-1994 01-01-2011 Bahrain 
+/searchPatientRecord 739 
+/numPatientAdmissions EBOLA 14-05-2009 18-07-2012 Iraq 
+/topk-AgeRanges 3 Chile MERS-COV 05-07-1995 12-09-1999 
+/searchPatientRecord 865 
+/topk-AgeRanges 4 Iraq COVID-2019 05-06-2018 02-07-2019 
+/numPatientAdmissions SARS-COV-2 13-06-2005 24-01-2014  
+/searchPatientRecord 896 
+/searchPatientRecord 250 
+/diseaseFrequency SARS-COV-2 04-01-2000 09-04-2000  
+/numPatientAdmissions FLU-2018 02-10-2015 08-09-2018  
+/topk-AgeRanges 2 Tanzania MERS-COV 10-09-1992 18-06-2009 
+/numPatientAdmissions EVD 30-06-1997 07-02-2014  
+/diseaseFrequency FLU-2018 12-08-2004 27-10-2009 Tanzania 
+/searchPatientRecord 937 
+/topk-AgeRanges 4 Denmark SARS-COV-2 26-03-2001 19-01-2011 
+/numPatientAdmissions SARS-1 21-05-2001 12-03-2017 Iraq 
+/numPatientAdmissions MERS-COV 25-11-2013 17-07-2019  
+/searchPatientRecord 492 
+/numPatientAdmissions FLU-2018 13-10-2015 16-01-2018  
+/numPatientDischarges EBOLA 18-05-2016 18-02-2017 Malawi 
+/topk-AgeRanges 3 Latvia WestVirginia 07-11-2002 23-01-2009 
+/diseaseFrequency EBOLA 30-12-2008 25-03-2017  
+/searchPatientRecord 9 
+/searchPatientRecord 274 
+/diseaseFrequency COVID-2019 27-05-2008 12-10-2016 Chile 
+/numPatientDischarges EBOLA 18-09-2005 23-03-2015  
+/topk-AgeRanges 2 Malawi SARS-COV-2 12-12-2014 22-09-2017 
+/diseaseFrequency EBOLA 13-04-2017 06-10-2019  
+/diseaseFrequency SARS-COV-2 13-10-1994 29-07-2011 Chad 
+/diseaseFrequency WestVirginia 27-11-2010 28-09-2011  
+/searchPatientRecord 341 
+/searchPatientRecord 390 
+/topk-AgeRanges 1 Malawi TAKAMOURI 31-10-1999 14-05-2012 
+/topk-AgeRanges 3 Bahrain WestVirginia 08-02-2012 11-08-2012 
+/searchPatientRecord 288 
+/numPatientDischarges EBOLA 27-08-2010 14-03-2016  
+/searchPatientRecord 71 
+/topk-AgeRanges 4 Chad EBOLA 01-09-2010 11-03-2016 
+/searchPatientRecord 144 
+/searchPatientRecord 800 
+/diseaseFrequency WestVirginia 25-02-1996 19-09-1996 Chad 
+/diseaseFrequency EBOLA 28-04-2014 23-05-2015  
+/searchPatientRecord 757 
+/searchPatientRecord 330 
+/numPatientDischarges WestVirginia 02-05-2005 23-10-2008  
+/numPatientAdmissions EBOLA 02-05-2016 12-01-2017 Bahrain 
+/diseaseFrequency MERS-COV 23-09-2011 28-05-2016 Latvia 
+/numPatientDischarges H1N1 30-07-2000 21-02-2003  
+/numPatientAdmissions SARS-COV-2 02-09-2018 13-03-2019 Finland 
+/numPatientDischarges H1N1 14-06-2001 23-04-2005  
+/numPatientAdmissions H1N1 07-08-2015 24-04-2019  
+/diseaseFrequency WestVirginia 26-07-2012 01-08-2017  
+/searchPatientRecord 119 
+/searchPatientRecord 185 
+/diseaseFrequency WestVirginia 17-06-2016 22-06-2018  
+/diseaseFrequency TAKAMOURI 05-05-2011 20-09-2016  
+/topk-AgeRanges 3 Finland MERS-COV 20-06-1991 23-10-1993 
+/numPatientAdmissions SARS-1 02-05-1998 04-06-2002 Latvia 
+/searchPatientRecord 590 
+/numPatientDischarges H1N1 27-05-1996 03-03-1997  
+/numPatientAdmissions H1N1 02-01-2001 09-04-2004  
+/numPatientAdmissions MERS-COV 26-12-2015 12-09-2017  
+/searchPatientRecord 60 
+/topk-AgeRanges 4 Bahrain EVD 26-07-2001 30-04-2008 
+/diseaseFrequency EBOLA 13-06-1999 18-05-2006 Iraq 
+/searchPatientRecord 835 
+/numPatientAdmissions WestVirginia 07-11-2009 03-12-2012  
+/numPatientDischarges SARS-COV-2 03-12-1994 31-10-1997 Tanzania 
+/numPatientAdmissions FLU-2018 04-08-1996 17-07-2016 Chile 
+/topk-AgeRanges 4 Chile TAKAMOURI 23-02-2011 30-06-2015 
+/searchPatientRecord 792 
+/topk-AgeRanges 2 Iraq COVID-2019 24-09-2015 22-03-2019 
+/topk-AgeRanges 3 Iraq SARS-1 08-08-2015 27-02-2016 
+/numPatientAdmissions H1N1 30-05-2007 11-09-2017 Tanzania 
+/diseaseFrequency SARS-1 11-04-2009 21-02-2016 Denmark 
+/searchPatientRecord 251 
+/topk-AgeRanges 3 Malawi FLU-2018 27-01-2019 19-10-2019 
+/numPatientDischarges SARS-1 10-04-2016 30-08-2019  
+/numPatientDischarges SARS-COV-2 25-01-1993 25-08-2004  
+/numPatientAdmissions WestVirginia 30-09-1994 07-08-2017  
+/numPatientDischarges WestVirginia 30-10-2015 29-03-2018 Bahrain 
+/numPatientDischarges WestVirginia 03-01-2008 04-08-2017 Bahrain 
+/numPatientAdmissions MERS-COV 09-02-2018 16-03-2019  
+/topk-AgeRanges 1 Finland SARS-1 13-04-2005 09-05-2016 
+/topk-AgeRanges 2 Denmark EVD 18-10-2003 02-07-2008 
+/diseaseFrequency SARS-COV-2 22-11-2001 18-10-2016  
+/numPatientAdmissions SARS-1 25-01-1998 13-02-2008 Malawi 
+/numPatientAdmissions SARS-1 08-07-2004 07-02-2013 Chile 
+/topk-AgeRanges 3 Chad MERS-COV 16-06-1994 21-03-2002 
+/searchPatientRecord 876 
+/numPatientDischarges WestVirginia 22-01-1994 05-08-2001  
+/searchPatientRecord 283 
+/diseaseFrequency SARS-COV-2 13-09-2018 26-03-2019 Chad 
+/diseaseFrequency EBOLA 04-10-2018 14-09-2019 Chile 
+/numPatientDischarges H1N1 28-01-2017 25-04-2018  
+/diseaseFrequency EBOLA 07-11-2013 25-01-2016  
+/searchPatientRecord 876 
+/numPatientAdmissions EBOLA 08-07-2015 28-05-2018 Denmark 
+/numPatientAdmissions EBOLA 21-07-1996 06-06-2001 Finland 
+/searchPatientRecord 524 
+/searchPatientRecord 794 
+/searchPatientRecord 715 
+/topk-AgeRanges 4 Chile H1N1 21-01-1990 08-08-2004 
+/searchPatientRecord 622 
+/topk-AgeRanges 3 Greece EBOLA 22-07-2015 12-12-2017 
+/searchPatientRecord 23 
+/numPatientAdmissions SARS-COV-2 30-01-2010 24-01-2016  
+/searchPatientRecord 478 
+/topk-AgeRanges 3 Finland FLU-2018 02-10-2004 20-10-2009 
+/numPatientAdmissions SARS-1 25-05-2011 26-08-2012  
+/topk-AgeRanges 3 Chile SARS-COV-2 28-01-2005 21-12-2007 
+/numPatientAdmissions MERS-COV 20-06-1998 11-07-2018  
+/numPatientAdmissions WestVirginia 10-04-2009 31-10-2013  
+/numPatientDischarges MERS-COV 12-11-2009 26-12-2009 Chad 
+/numPatientDischarges SARS-1 15-06-2019 12-10-2019 Chad 
+/numPatientDischarges COVID-2019 16-08-1995 09-10-2007 Denmark 
+/numPatientAdmissions FLU-2018 14-09-1993 10-02-2011  
+/numPatientDischarges TAKAMOURI 10-08-2011 12-06-2016  
+/searchPatientRecord 51 
+/diseaseFrequency EVD 13-05-1996 29-11-2016 Latvia 
+/diseaseFrequency MERS-COV 27-10-1998 03-10-2007  
+/diseaseFrequency WestVirginia 10-10-1998 13-06-2010  
+/numPatientDischarges H1N1 15-04-2019 21-09-2019  
+/diseaseFrequency TAKAMOURI 01-10-1997 28-11-2012  
+/numPatientDischarges FLU-2018 17-01-1997 23-05-1999 Malawi 
+/diseaseFrequency EBOLA 20-04-2019 31-05-2019  
+/numPatientDischarges EBOLA 28-05-2010 10-12-2012 Bahrain 
+/numPatientAdmissions TAKAMOURI 18-12-2008 28-11-2013 Bahrain 
+/numPatientAdmissions EBOLA 05-12-2015 17-09-2018  
+/numPatientAdmissions H1N1 20-04-1999 12-04-2003 Latvia 
+/numPatientAdmissions SARS-COV-2 10-01-2005 15-06-2014 Denmark 
+/numPatientDischarges EVD 19-06-2004 24-08-2006  
+/topk-AgeRanges 2 Malawi EBOLA 24-09-2004 27-01-2015 
+/searchPatientRecord 992 
+/diseaseFrequency SARS-1 12-10-1998 02-10-2010 Iraq 
+/diseaseFrequency EVD 22-07-1993 31-12-2004 Tanzania 
+/numPatientAdmissions SARS-1 06-12-1998 03-10-2000 Iraq 
+/numPatientDischarges SARS-COV-2 17-09-2018 11-07-2019 Greece 
+/topk-AgeRanges 1 Malawi EVD 07-03-2014 27-09-2019 
+/searchPatientRecord 562 
+/numPatientDischarges SARS-COV-2 25-03-1997 07-06-2014 Greece 
+/topk-AgeRanges 3 Chad SARS-COV-2 26-04-1995 26-04-2000 
+/topk-AgeRanges 1 Iraq WestVirginia 24-03-2007 06-02-2009 
+/searchPatientRecord 775 
+/topk-AgeRanges 2 Greece EVD 14-11-2003 02-06-2015 
+/searchPatientRecord 760 
+/numPatientDischarges COVID-2019 10-08-2007 25-11-2009  
+/numPatientDischarges COVID-2019 05-12-2002 01-02-2012 Bahrain 
+/numPatientDischarges TAKAMOURI 04-11-1996 08-09-2009 Denmark 
+/topk-AgeRanges 3 Chad H1N1 11-04-2007 22-08-2014 
+/searchPatientRecord 261 
+/numPatientDischarges MERS-COV 29-05-1990 08-04-1993  
+/diseaseFrequency EBOLA 11-05-2004 26-05-2017  
+/numPatientAdmissions H1N1 28-05-1990 11-01-1999 Greece 
+/diseaseFrequency FLU-2018 07-03-1994 28-10-1995 Malawi 
+/diseaseFrequency SARS-COV-2 11-01-2009 21-02-2017 Latvia 
+/topk-AgeRanges 3 Malawi SARS-COV-2 05-02-1993 30-05-2014 
+/diseaseFrequency WestVirginia 09-09-2006 27-11-2015  
+/diseaseFrequency MERS-COV 11-05-2017 25-05-2018  
+/diseaseFrequency SARS-COV-2 10-04-2010 31-10-2019  

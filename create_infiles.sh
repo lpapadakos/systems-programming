@@ -55,7 +55,7 @@ while read -r country; do
 			# Random date 0-9999 days ago
 			file=$(date -d "$((RANDOM % 10000)) days ago" +%d-%m-%Y)
 
-			# See README[7]
+			# Day <= 30 (Piazza)
 			file=${file/#31/30}
 
 			[ -f "$file" ]
