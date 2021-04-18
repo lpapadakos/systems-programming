@@ -1,4 +1,5 @@
 *.o
 master
+!master/
 whoServer
 whoClient
